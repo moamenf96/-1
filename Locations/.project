@@ -38,37 +38,37 @@
 		<link>
 			<name>src/main/Main.java</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Locations/src/main/Main.java</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/Locations/src/main/Main.java</locationURI>
 		</link>
 		<link>
 			<name>src/models/ScanInfo.java</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Locations/src/models/ScanInfo.java</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/Locations/src/models/ScanInfo.java</locationURI>
 		</link>
 		<link>
 			<name>src/models/WifiNetwork.java</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Locations/src/models/WifiNetwork.java</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/Locations/src/models/WifiNetwork.java</locationURI>
 		</link>
 		<link>
 			<name>src/tests/Tests.java</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Locations/src/tests/Tests.java</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/Locations/src/tests/Tests.java</locationURI>
 		</link>
 		<link>
 			<name>src/utils/CsvService.java</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Locations/src/utils/CsvService.java</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/Locations/src/utils/CsvService.java</locationURI>
 		</link>
 		<link>
 			<name>src/utils/IO.java</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Locations/src/utils/IO.java</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/Locations/src/utils/IO.java</locationURI>
 		</link>
 		<link>
 			<name>src/utils/KmlService.java</name>
 			<type>1</type>
-			<locationURI>PARENT-2-PROJECT_LOC/Desktop/Locations/src/utils/KmlService.java</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Desktop/Locations/src/utils/KmlService.java</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
